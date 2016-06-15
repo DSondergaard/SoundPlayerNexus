@@ -1,0 +1,10 @@
+F:\Daniel\Games2016\SoundPlayer\bin\Debug\SoundPlayer.exe
+F:\Daniel\Games2016\SoundPlayer\bin\Debug\SoundPlayer.pdb
+F:\Daniel\Games2016\SoundPlayer\obj\x86\Debug\SoundPlayer.Form1.resources
+F:\Daniel\Games2016\SoundPlayer\obj\x86\Debug\SoundPlayer.Properties.Resources.resources
+F:\Daniel\Games2016\SoundPlayer\obj\x86\Debug\SoundPlayer.csproj.GenerateResource.Cache
+F:\Daniel\Games2016\SoundPlayer\obj\x86\Debug\SoundPlayer.exe
+F:\Daniel\Games2016\SoundPlayer\obj\x86\Debug\SoundPlayer.pdb
+F:\Daniel\Games2016\SoundPlayer\obj\x86\Debug\Interop.WMPLib.dll
+F:\Daniel\Games2016\SoundPlayer\obj\x86\Debug\SoundPlayer.csproj.ResolveComReference.cache
+F:\Daniel\Games2016\SoundPlayer\obj\x86\Debug\SoundPlayer.SoundBox.resources
