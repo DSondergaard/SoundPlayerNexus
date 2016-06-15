@@ -8,3 +8,13 @@ F:\Daniel\Games2016\SoundPlayer\obj\x86\Debug\SoundPlayer.pdb
 F:\Daniel\Games2016\SoundPlayer\obj\x86\Debug\Interop.WMPLib.dll
 F:\Daniel\Games2016\SoundPlayer\obj\x86\Debug\SoundPlayer.csproj.ResolveComReference.cache
 F:\Daniel\Games2016\SoundPlayer\obj\x86\Debug\SoundPlayer.SoundBox.resources
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\SoundPlayerNexus\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\SoundPlayerNexus\obj\x86\Debug\SoundPlayer.csproj.ResolveComReference.cache
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\SoundPlayerNexus\obj\x86\Debug\SoundPlayer.exe
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\SoundPlayerNexus\obj\x86\Debug\SoundPlayer.pdb
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\SoundPlayerNexus\bin\Debug\SoundPlayer.exe
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\SoundPlayerNexus\bin\Debug\SoundPlayer.pdb
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\SoundPlayerNexus\obj\x86\Debug\SoundPlayer.Form1.resources
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\SoundPlayerNexus\obj\x86\Debug\SoundPlayer.Properties.Resources.resources
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\SoundPlayerNexus\obj\x86\Debug\SoundPlayer.SoundBox.resources
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\SoundPlayerNexus\obj\x86\Debug\SoundPlayer.csproj.GenerateResource.Cache
